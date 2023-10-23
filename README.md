@@ -9,8 +9,8 @@
 
 
 - 📍  Based in Portugal.
-- 🔭 I’m currently working at Microsoft as a Support Engineer on Azure Core, IaaS Virtual Machines team.
-- 👩‍🎓 I’m currently finishing a Master's degree on Biomedical Engineering at University of Coimbra.
+- 🔭 I’m currently working at Siemens as a Data Scientist.
+- 👩‍🎓 I’m a MSc. Biomedical Engineer.
 - 🎓 My projects on GitHub currently come from my academic journey.
 - 🎯 In tech, I'm interested on Assistive Technology, Artificial Inteligence and project development.
 - ⚡ Fun fact: I've bungee jumped the same amount of times as the quantity of repositories I have on GitHub 😁
@@ -33,24 +33,3 @@
 
 </div>
   
-<!--
-**blackmountainb/blackmountainb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h2 align="center"> Hi there, I'm Beatriz </h1>
-<div align="center" id = "badges">
-  <a href="https://www.linkedin.com/in/beatriz-negromonte/">
-    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge"/>
-  </a>
-  
- </div>  
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
