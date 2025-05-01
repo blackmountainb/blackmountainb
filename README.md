@@ -14,10 +14,6 @@
 - 🎓 My projects on GitHub currently come from my academic journey.
 - 🎯 In tech, I'm interested on Assistive Technology, Artificial Inteligence and project development.
 - ⚡ Fun fact: I've bungee jumped the same amount of times as the quantity of repositories I have on GitHub 😁
-- 📥 You can reach me on <a href="https://www.linkedin.com/in/beatriz-negromonte/">
-    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" width="70" height="20"/>
-  </a>
-  or at negromontebs@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
