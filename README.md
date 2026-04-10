@@ -9,7 +9,7 @@
 
 
 - 📍  Based in Portugal.
-- 🔭 I’m currently working at Siemens as a Data Scientist.
+- 🔭 I’m currently working at Cloudflare as a Systems Engineer.
 - 👩‍🎓 I’m a MSc. Biomedical Engineer.
 - 🎓 My projects on GitHub currently come from my academic journey.
 - 🎯 In tech, I'm interested on Assistive Technology, Artificial Inteligence and project development.
